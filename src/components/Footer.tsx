@@ -78,7 +78,7 @@ const navigation = {
             <div className="space-y-8">
               <img
                 alt="Company name"
-                src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                src="https://cdn.zonebourse.com/static/instruments-logo-20705742"
                 className="h-7"
               />
               <p className="text-sm leading-6 text-gray-600">
